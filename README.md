@@ -1,6 +1,6 @@
 Hi there! 👋 I'm Aditya
 
-Pursuing an MBA in Business Analytics at the University of Canada West, I am passionate about data analytics, problem-solving, and full-stack development. With experience in technical support and ASP.NET full-stack development, I aim to transition into a Data Analyst role.
+An MBA graduate in Business Analytics from the University of Canada West, I am passionate about data, problem-solving, and full-stack development. With experience in technical support and ASP.NET full-stack development, I aim to transition into a Data Analyst role.
 
 🔍 Interests
 
